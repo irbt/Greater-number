@@ -1,0 +1,15 @@
+C:\Mon_Code\Greater number\bin\Debug\net7.0\Greater number.exe
+C:\Mon_Code\Greater number\bin\Debug\net7.0\Greater number.deps.json
+C:\Mon_Code\Greater number\bin\Debug\net7.0\Greater number.runtimeconfig.json
+C:\Mon_Code\Greater number\bin\Debug\net7.0\Greater number.dll
+C:\Mon_Code\Greater number\bin\Debug\net7.0\Greater number.pdb
+C:\Mon_Code\Greater number\obj\Debug\net7.0\Greater number.csproj.AssemblyReference.cache
+C:\Mon_Code\Greater number\obj\Debug\net7.0\Greater number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\Greater number\obj\Debug\net7.0\Greater number.AssemblyInfoInputs.cache
+C:\Mon_Code\Greater number\obj\Debug\net7.0\Greater number.AssemblyInfo.cs
+C:\Mon_Code\Greater number\obj\Debug\net7.0\Greater number.csproj.CoreCompileInputs.cache
+C:\Mon_Code\Greater number\obj\Debug\net7.0\Greater number.dll
+C:\Mon_Code\Greater number\obj\Debug\net7.0\refint\Greater number.dll
+C:\Mon_Code\Greater number\obj\Debug\net7.0\Greater number.pdb
+C:\Mon_Code\Greater number\obj\Debug\net7.0\Greater number.genruntimeconfig.cache
+C:\Mon_Code\Greater number\obj\Debug\net7.0\ref\Greater number.dll
